@@ -10,11 +10,25 @@ The libraries we have used are the following:
 Library | Description 
 | :--- | ---: 
 os  |  Provides functions for accesing (read, create, remove) files from the operating system. 
+csv  |  Allows to access csv files. 
+re  |  For using regular expressions.
 PyPDF2  | Provides functions for working with PDF documents (create, read, edit).
+tabula  | Provides functions for working with PDF documents (create, read, edit).
 pandas  | Used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data.
+numpy  | Describe it.
+matplotlib  | Describe it.
 psycopg2  | The PostgreSQL database adapter for the Python programming language.
-Content Cell  | Content Cell 
-Content Cell  | Content Cell 
+seaborn  | Great plots and visualizations.
+scipy  | Describe it.
+statsmodels  | Describe it.
+sklearn.model_selection  | Describe it.
+sklearn.impute import SimpleImputer  | Describe it.
+sklearn.linear_model import LinearRegression  | Describe it.
+sklearn.linear_model import Lasso  | Describe it.
+sklearn.linear_model import Ridge  | Describe it.
+sklearn.linear_model import ElasticNet  | Describe it.
+sklearn.metrics import r2_score, mean_squared_error  | Describe it.
+
 
 * Testing readme format
      * Nested bullet
