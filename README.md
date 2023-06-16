@@ -18,28 +18,24 @@ pandas  | Used for working with data sets. It has functions for analyzing, clean
 numpy  | Describe it.
 matplotlib  | Describe it.
 psycopg2  | The PostgreSQL database adapter for the Python programming language.
-seaborn  | Great plots and visualizations.
-scipy  | Describe it.
-statsmodels  | Describe it.
-sklearn.model_selection  | Describe it.
-sklearn.impute import SimpleImputer  | Describe it.
-sklearn.linear_model import LinearRegression  | Describe it.
-sklearn.linear_model import Lasso  | Describe it.
-sklearn.linear_model import Ridge  | Describe it.
-sklearn.linear_model import ElasticNet  | Describe it.
-sklearn.metrics import r2_score, mean_squared_error  | Describe it.
+seaborn  | Based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+scipy  | Contains modules for optimization, linear algebra, integration, interpolation, special functions, signal and image processing.
+statsmodels  | Module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
+sklearn  | It features various classification, regression and clustering algorithms.
+sklearn.impute import SimpleImputer  | .
+sklearn.linear_model import LinearRegression  | .
+sklearn.linear_model import Lasso  | .
+sklearn.linear_model import Ridge  | .
+sklearn.linear_model import ElasticNet  | .
+sklearn.metrics import r2_score, mean_squared_error  | .
 
-
-* Testing readme format
-     * Nested bullet
-         * Sub-nested bullet etc
+The process we followed in this project includes the following steps:
 * Process the data from the PDF files to populate a CSV file containing information from the PDF files
 * Create a Exploratory Data Analysis -EDA-, using the CSV file 
 * Desing and create a database to load the data contained in the CSV file
 * Create a process to load the data from the CSV file, to the corresponding tables in the database
+* Create the eda process.
+* Create the cda process.
+* Create plots and dashboard using Tableau Public version.
+* Create the final presentation.
 
-
-Left aligned Header | Right aligned Header | Center aligned Header
-| :--- | ---: | :---:
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
