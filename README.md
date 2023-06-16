@@ -15,8 +15,8 @@ re  |  For using regular expressions.
 PyPDF2  | Provides functions for working with PDF documents (create, read, edit).
 tabula  | Provides functions for working with PDF documents (create, read, edit).
 pandas  | Used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data.
-numpy  | Describe it.
-matplotlib  | Describe it.
+numpy  | Library for Python, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays..
+matplotlib  | Plotting library for Python programming language and its numerical mathematics extension NumPy.
 psycopg2  | The PostgreSQL database adapter for the Python programming language.
 seaborn  | Based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 scipy  | Contains modules for optimization, linear algebra, integration, interpolation, special functions, signal and image processing.
